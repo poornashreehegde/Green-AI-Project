@@ -1,2 +1,2 @@
 # Green-AI-Project
-The increase or decrease in rainfall and temperature cause harm in many ways.  This project aims to analyze historical rainfall and temperature data to identify long-term trends, seasonal variations, and anomalies. The goal is to highlight potential climate risks and provide insights for disaster preparedness and sustainable resource planning.”
+"This project aims to predict future temperature and rainfall patterns using historical climate data. By applying regression models to past weather records, the study seeks to support better planning in agriculture, disaster management, and climate risk assessment."
